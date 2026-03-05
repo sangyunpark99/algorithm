@@ -1,4 +1,4 @@
-package org.hello.neetcode.longest_consecutive_sequence;
+package org.hello.neetcode150.longest_consecutive_sequence;
 
 import java.util.HashMap;
 

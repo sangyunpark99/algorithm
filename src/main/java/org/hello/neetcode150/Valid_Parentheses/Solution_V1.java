@@ -1,4 +1,4 @@
-package org.hello.neetcode.Valid_Parentheses;
+package org.hello.neetcode150.Valid_Parentheses;
 
 import java.util.List;
 import java.util.Stack;
